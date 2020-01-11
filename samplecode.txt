@@ -1,0 +1,9 @@
+#This is simple java code
+
+public class Sample{
+
+public static void main(args[] String){
+System.out.Println("new program");
+}
+
+}
